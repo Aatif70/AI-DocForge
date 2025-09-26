@@ -1,1 +1,0 @@
-Multiple commands produce '/Users/aatif/Library/Developer/Xcode/DerivedData/DocuForge-gfidfrxsjdprndczctjviwjfaknc/Build/Products/Debug-iphonesimulator/DocuForge.app/Info.plist'
